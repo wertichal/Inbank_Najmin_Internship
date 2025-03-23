@@ -85,7 +85,7 @@ To generate the final result, the query must:
 
 ## 🧩 Next Steps / Improvements
 
-- Add fallback logic if exchange rate is missing (e.g. latest available).
+- We can add fallback logic if exchange rate is missing (e.g. latest available).
 - Add monitoring on currency data quality (completeness, timeliness, null rate).
 - Integrate with dbt tests or Great Expectations for pipeline validation in production.
 
