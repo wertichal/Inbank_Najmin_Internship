@@ -65,7 +65,7 @@ To generate the final result, the query must:
 
 ---
 
-## 📈 Output Example
+## 📈 Output
 
 | transaction_date | sum_amount_eur |
 |------------------|----------------|
